@@ -1,0 +1,4 @@
+#Example 1
+
+SIMPLE TEXT
+~~STRIKE THROUGH~~
